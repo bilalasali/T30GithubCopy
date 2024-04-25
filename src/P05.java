@@ -4,5 +4,7 @@ public class P05 {
         System.out.println("Merhaba v2.5");
 
         System.out.println("Merhaba ben T135");
+
+        System.out.println("sana da merhaba");
     }
 }
