@@ -6,5 +6,7 @@ public class P05 {
         System.out.println("Merhaba ben T135");
 
         System.out.println("sana da merhaba");
+
+        System.out.println("kopyaladık");
     }
 }
